@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pratxk&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://github.com/codewithpom/dev-meme/blob/main/images/9.png' style="height: 400px;"/>
+<img src='https://github.com/codewithpom/dev-meme/raw/main/images/21.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratxk&icon=0&color=3)](https://visitcount.itsvg.in)
