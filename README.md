@@ -21,8 +21,20 @@ dynamic field.</i>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Connect with me :
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://linkedin.com/in/pratik-singh-0654b9214">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/Kakashiix26">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://leetcode.com/u/Pratxk007/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/proff_pratiksin1">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  </a>
+   <a href="https://x.com/Pratxk007">
+    <img src="https://skillicons.dev/icons?i=x" />
   </a>
 # 💻 Tech Stack:
 
