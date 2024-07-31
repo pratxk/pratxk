@@ -1,5 +1,5 @@
 # Hello 👋, I'm Pratik Singh
-<i>A Skilled Full-stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript,
+<i>A Skilled Full-stack Web Developer with specialization in React Frontend & Node.js Backend Development and proficiency in HTML, CSS, JavaScript,
 Expressjs, and Node.js. Completed a comprehensive 7000+ hour web development urse at Masai School with hands on experience in
 individual and collaborative projects- Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this
 dynamic field.</i>
