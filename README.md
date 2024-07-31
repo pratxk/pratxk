@@ -9,7 +9,7 @@ dynamic field.</i>
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,mongodb,mysql,netlify,vercel,npm,postman,py,pr,ae,firebase)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratxk&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
