@@ -28,7 +28,7 @@ dynamic field.</i>
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://leetcode.com/u/Pratxk007/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
   </a>
   <a href="https://www.hackerrank.com/profile/proff_pratiksin1">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
