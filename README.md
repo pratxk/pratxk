@@ -41,7 +41,7 @@ dynamic field.</i>
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=pratxk&icon=0&color=3)](https://visitcount.itsvg.in)<br/>
-![](https://github-readme-stats.vercel.app/api?username=pratxk&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pratxk&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratxk&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratxk&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
