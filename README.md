@@ -12,9 +12,9 @@ dynamic field.</i>
 
 <li>👨‍💻 All of my projects are available at https://github.com/pratxk</li>
 
-<li>💬 Ask me about React.js, Redux, HTML, CSS, JavaScript, Python ,Node.js, express.js and MongoDB.</li>
+<li>💬 Ask me about <b>React.js| Redux | HTML | CSS | JavaScript | Python | Node.js | express.js | MongoDB </b>.</li>
 
-<li>📫 How to reach me proff.pratiksingh@gmail.com. </li>
+<li>📫 How to reach me: proff.pratiksingh@gmail.com. | <a href='https://linkedin.com/in/pratik-singh-0654b9214'>LinkedIN</a> </li>
 
 <li>📄 Know about my experiences www.linkedin.com/in/jaydeepwakade. </li>
 
@@ -22,7 +22,7 @@ dynamic field.</i>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌐 Socials:
+## 🌐 Connect with me :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100018571180573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kakashiix26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-singh-0654b9214) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pratik_singh) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pratxk007) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pratxk007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratxk007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pratik-Singh-the-vuer) 
 
 # 💻 Tech Stack:
