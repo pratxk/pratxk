@@ -33,9 +33,6 @@ dynamic field.</i>
   <a href="https://www.hackerrank.com/profile/proff_pratiksin1">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
-   <a href="https://x.com/Pratxk007">
-    <img src="https://skillicons.dev/icons?i=x" />
-  </a>
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,mongodb,mysql,netlify,c,java,npm,postman,py,firebase)](https://skillicons.dev)
