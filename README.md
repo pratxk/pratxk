@@ -33,6 +33,8 @@ dynamic field.</i>
   <a href="https://codepen.io/Pratik-Singh-the-vuer">
     <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
+
+  
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,mongodb,mysql,netlify,c,java,npm,postman,py,firebase)](https://skillicons.dev)
