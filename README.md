@@ -1,6 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on increasing my skillset.<br>🌱 I’m currently learning a lot of stuff like DBMS, DSA, React and Express.js among others.<br>🥇 I'm proficient in JavaScript and it's libraries.<br>🎓 I'm in my senoir year pursuing a graduate degree in CS.<br>🌟 Fun Fact: I Like WobbleHeads 💀 and Cosmology. Let's get our heads wobble together.🙂<br>😄 Pronouns: He/Him
-
+# Hello 👋, I'm Pratik Singh
+A Skilled Full-stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript,
+Expressjs, and Node.js. Completed a comprehensive 7000+ hour web development urse at Masai School with hands on experience in
+individual and collaborative projects- Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this
+dynamic field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100018571180573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kakashiix26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-singh-0654b9214) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pratik_singh) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pratxk007) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pratxk007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratxk007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pratik-Singh-the-vuer) 
