@@ -4,17 +4,16 @@ Expressjs, and Node.js. Currently doing a comprehensive 7000+ hour Live web deve
 individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this
 dynamic field.</i>
 
-<li>🔭 I’m currently working on Multiple Projects </li>
+<li>🔭 I’m currently working on Multiple Projects </li><br/>
+<li>🌱 I’m currently learning my skills in backend development.</li><br/>
 
-<li>🌱 I’m currently learning my skills in backend development.</li>
+<li>👯 I’m looking to collaborate on MERN stack projects and contribute to innovative open-source initiatives.</li><br/>
 
-<li>👯 I’m looking to collaborate on MERN stack projects and contribute to innovative open-source initiatives.</li>
+<li>👨‍💻 All of my projects are available at https://github.com/pratxk</li><br/>
 
-<li>👨‍💻 All of my projects are available at https://github.com/pratxk</li>
+<li>💬 Ask me about <b>React.js| Redux | HTML | CSS | JavaScript | Python | Node.js | express.js | MongoDB </b>.</li><br/>
 
-<li>💬 Ask me about <b>React.js| Redux | HTML | CSS | JavaScript | Python | Node.js | express.js | MongoDB </b>.</li>
-
-<li>📫 How to reach me: proff.pratiksingh@gmail.com. | <a href='https://linkedin.com/in/pratik-singh-0654b9214'>LinkedIN</a> </li>
+<li>📫 How to reach me: proff.pratiksingh@gmail.com. | <a href='https://linkedin.com/in/pratik-singh-0654b9214'>LinkedIN</a> </li><br/>
 
 
 ## 🏆 GitHub Trophies
