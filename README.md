@@ -16,8 +16,6 @@ dynamic field.</i>
 
 <li>📫 How to reach me: proff.pratiksingh@gmail.com. | <a href='https://linkedin.com/in/pratik-singh-0654b9214'>LinkedIN</a> </li>
 
-<li>📄 Know about my experiences www.linkedin.com/in/jaydeepwakade. </li>
-
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
