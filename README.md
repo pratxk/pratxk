@@ -27,11 +27,11 @@ dynamic field.</i>
   <a href="https://instagram.com/Kakashiix26">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://leetcode.com/u/Pratxk007/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+  <a href="https://discord.com/hatakekakashi_007">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.hackerrank.com/profile/proff_pratiksin1">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  <a href="https://codepen.io/Pratik-Singh-the-vuer">
+    <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
 # 💻 Tech Stack:
 
