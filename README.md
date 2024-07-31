@@ -4,6 +4,20 @@ Expressjs, and Node.js. Completed a comprehensive 7000+ hour web development urs
 individual and collaborative projects- Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this
 dynamic field.</i>
 
+<li>🔭 I’m currently working on Multiple Projects </li>
+
+<li>🌱 I’m currently learning my skills in backend development.</li>
+
+<li>👯 I’m looking to collaborate on MERN stack projects and contribute to innovative open-source initiatives.</li>
+
+<li>👨‍💻 All of my projects are available at https://github.com/pratxk</li>
+
+<li>💬 Ask me about React.js, Redux, HTML, CSS, JavaScript, Python ,Node.js, express.js and MongoDB.</li>
+
+<li>📫 How to reach me proff.pratiksingh@gmail.com. </li>
+
+<li>📄 Know about my experiences www.linkedin.com/in/jaydeepwakade. </li>
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
