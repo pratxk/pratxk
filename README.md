@@ -1,8 +1,8 @@
 # Hello 👋, I'm Pratik Singh
-<i>A Skilled Full-stack Web Developer with specialization in React Frontend & Node.js Backend Development and proficiency in HTML, CSS, JavaScript,
-Expressjs, and Node.js. Currently doing a comprehensive 7000+ hour Live web development course at Masai School with hands on experience in
-individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this
-dynamic field.</i>
+<i> Software Engineer with ~2 years of experience building scalable web apps using JavaScript, TypeScript, and Python. Skilled in 
+React.js, Next.js, Node.js, and databases like PostgreSQL and MongoDB. Experienced in CI/CD workflows, automated testing, and 
+cloud-native deployments. Thrive in Agile teams (Scrum/Kanban), contributing to performance optimization, sprint planning, and 
+delivery acceleration. Passionate about clean, efficient code and improving developer experience.</i>
 
 <li>🔭 I’m currently working on Multiple Projects </li><br/>
 <li>🌱 I’m currently learning my skills in backend development.</li><br/>
